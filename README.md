@@ -1,2 +1,2 @@
 # Love2D_Scenemanagement
-This is a short example on how to manage scenes within love2D
+Two classes "Composer" and "Scene" to make it easy to have a proper scene management in Love2D
